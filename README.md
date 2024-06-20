@@ -1,6 +1,6 @@
 <h3 align="center"> Hola everyone 🖖, I'm Matias </h3>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=JuniorFrontend+Web+Developer;Junior+Developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Frontend+Web+Developer;Junior+Developer" alt="Typing SVG" /></a></p>
 
 
 <p align="center">🎨 A creative soul always in search of inspiration.</p>
