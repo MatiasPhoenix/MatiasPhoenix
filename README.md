@@ -22,7 +22,7 @@
 
 
 ### Tools / Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,cs,ts,angular,react,reactnative,git,github,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,cs,ts,angular,react,git,github,vscode,visualstudio)](https://skillicons.dev)
 ---
 
 
