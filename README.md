@@ -28,16 +28,17 @@
 
 <h3 align="center">Contacts:</h3>
 
-<div align="center">
+
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/matias-recio-web-developer">
+  <a href="https://www.linkedin.com/in/matias-recio-web-developer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href= "mailto: matias.la19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9cc?style=for-the-badge&logo=E&logoColor=white" alt="Email Badge"/>
-  </a> 
+  <a href="mailto:matias.la19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9cc?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
-</div>
+
+
 
 <!--
 **MatiasPhoenix/MatiasPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
