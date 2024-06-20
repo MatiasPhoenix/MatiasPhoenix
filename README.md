@@ -28,6 +28,7 @@
 
 <h3 align="center">Contacts:</h3>
 
+<div align="center">
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/matias-recio-web-developer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,6 +36,7 @@
   <a href= "mailto: matias.la19@gmail.com">
     <img src="https://img.shields.io/badge/Email-9cc?style=for-the-badge&logo=E&logoColor=white" alt="Email Badge"/>
   </a> 
+</div>
 </div>
 
 <!--
