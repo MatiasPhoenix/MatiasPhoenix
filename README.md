@@ -19,9 +19,9 @@
 
 
 ### Tools / Knowledge:
-<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,cs,ts,angular,react,git,github,vscode,visualstudio)](https://skillicons.dev)
-</div>
+
 ---
 
 
