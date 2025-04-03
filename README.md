@@ -1,11 +1,11 @@
 <h3 align="center"> Hola everyone 🖖, I'm Matias! </h3>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Frontend+Web+Developer;Junior+Developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Frontend+Web+Developer;Junior+Game+Developer;Junior+Developer" alt="Typing SVG" /></a></p>
 
 
 <p align="center">🎨 A creative soul always in search of inspiration.</p>
-<p align="center">🌍 A 38-year-old Junior Front-End Developer with Italian-Argentinian roots.</p>
-<p align="center">🚀 Channeling my ideas through web development and beyond.</p>
+<p align="center">🌍 A 39-year-old Junior Front-End Developer with Italian-Argentinian roots.</p>
+<p align="center">🚀 Channeling my ideas through game development, web development and beyond.</p>
 <p align="center">🤝 Aspiring to grow professionally and collaborate with enthusiastic and enterprising people.</p>
 <p align="center">🔗 Enjoy the journey through my GitHub!</p>
 
@@ -23,7 +23,7 @@
 ### Tools / Knowledge:
 <div align="center" markdown="1">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,cs,ts,angular,react,git,github,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,cs,ts,angular,react,git,github,vscode,visualstudio,unity)](https://skillicons.dev)
 
 </div>
 
